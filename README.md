@@ -34,6 +34,6 @@ Desenvolvedor Web
 
 <a href="https://github.com/AdrianAtDjango" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianAtDjango&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
