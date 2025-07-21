@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adrian Kayllan
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Adrian Kayllan
 ======================================================================================================================================
 
 Desenvolvedor Web
@@ -14,9 +14,9 @@ Desenvolvedor Web
 
 👨‍🏫 Orientação de instrutores especializados e simulações de ambiente profissional.
 
-* 🌍  I'm based in Rio Branco
-* ✉️  You can contact me at [kayllan.profissional@proton.me](mailto:kayllan.profissional@proton.me)
-* 🧠  I'm learning Django e Django Rest Framework
+* 🌍  Atualmente moro em Rio Branco
+* ✉️  Você pode me contactar nesse email: [kayllan.profissional@proton.me](mailto:kayllan.profissional@proton.me)
+* 🧠  Atualmente estou aprendendo Django e Django Rest Framework
 
 ### Skills
 
