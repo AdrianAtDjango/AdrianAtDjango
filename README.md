@@ -16,7 +16,7 @@ Desenvolvedor Web
 
 * 🌍  Atualmente moro em Rio Branco
 * ✉️  Você pode me contactar nesse email: [kayllan.profissional@proton.me](mailto:kayllan.profissional@proton.me)
-* 🧠  Atualmente estou aprendendo Django e Django Rest Framework
+* 🧠  Atualmente estou aprendendo Django e Django Rest Framework com Vue.JS
 
 ### Skills
 
